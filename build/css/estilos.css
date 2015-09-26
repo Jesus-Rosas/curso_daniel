@@ -1,0 +1,112 @@
+/*Colores Fondo*/
+/*Pink Combination*/
+/*Red*/
+/*Blue*/
+/*Amber*/
+/*Cyan*/
+/*Text Colors*/
+/*Teal*/
+/*Black*/
+/*Blancos*/
+/*Encabezados*/
+.navegation {
+  padding: 1em;
+  box-sizing: border-box;
+  background-color: #2196f3;
+}
+.navegation h1 {
+  font-size: 20px;
+  margin: 0;
+  color: #f7f7f7;
+}
+.navegation .nav-list li {
+  display: inline-block;
+  list-style: none;
+}
+.navegation .nav-list li a {
+  color: #f7f7f7;
+  padding: 1.5em;
+  text-decoration: none;
+  font-weight: bolder;
+}
+.navegation .nav-list li a:hover {
+  color: #333;
+  background-color: #f7f7f7;
+}
+.subtitle-sect {
+  text-align: center;
+}
+.legend-footer {
+  text-align: center;
+  color: #f7f7f7;
+  font-weight: bolder;
+}
+.persons {
+  text-align: center;
+}
+.avatar {
+  display: block;
+  margin: 0 auto;
+}
+.testimonios {
+  background-color: #00bcd4;
+  padding: 1em;
+  color: #f7f7f7;
+}
+.partners {
+  background-color: #ffc107;
+  padding: 1em;
+}
+.img-thumbnail {
+  background-color: transparent;
+  border: 0px;
+}
+.footer {
+  padding: 1em;
+  background-color: #2196f3;
+}
+.promociones {
+  padding: 1em;
+  background-color: #00bcd4;
+  color: #f7f7f7;
+}
+.contacto {
+  background-color: #80cbc4;
+  padding: 1em;
+}
+.contacto h2 {
+  text-align: center;
+}
+.contacto form {
+  position: relative;
+  margin: 0 auto;
+  display: block;
+}
+.contacto form input {
+  width: 45%;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 5px;
+}
+.contacto form textarea {
+  width: 45%;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 5px;
+  resize: none;
+}
+.contacto form button {
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 5px;
+  background-color: #f44336;
+  color: #f7f7f7;
+  border-bottom: 5px solid #b71c1c;
+  width: 15%;
+}
+.contacto form button:hover {
+  color: #f7f7f7;
+  background-color: #f44336;
+  border-bottom: 5px solid #b71c1c;
+}

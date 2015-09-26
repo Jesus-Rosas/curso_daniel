@@ -1,0 +1,23 @@
+{
+  "name": "curso_daniel",
+  "version": "0.0.0",
+  "description": "Página Web La vuelta Al Mundo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Jesus-Rosas/curso_daniel.git"
+  },
+  "author": "Daniel Inclan Ramírez",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Jesus-Rosas/curso_daniel/issues"
+  },
+  "devDependencies": {
+    "gulp-stylus": "~2.0.7",
+    "gulp-uglify": "~1.4.1",
+    "gulp": "~3.9.0",
+    "gulp-watch": "~4.3.5"
+  }
+}
